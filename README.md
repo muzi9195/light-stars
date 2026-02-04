@@ -87,8 +87,6 @@
 
 *   [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents and forum of FeedMe
 
-*   [ccqaq733/DickHelperxx](https://github.com/ccqaq733/DickHelperxx) - 一个简单、高效、易用的打飞机记录工具，帮助你科学管理✈️生活
-
 *   [beiye935/YouXuanIPAndYuming](https://github.com/beiye935/YouXuanIPAndYuming) - Cloudflare优选域名和IP
 
 *   [bug-bit/fckvip](https://github.com/bug-bit/fckvip) - 一个解锁部分软件会员与拓展功能增强的模块
@@ -126,6 +124,8 @@
 *   [1688aa/KeePass-Plugins-Instructions-for-use](https://github.com/1688aa/KeePass-Plugins-Instructions-for-use) - KeePass插件使用说明
 
 *   [Fukki-Z/nodefree](https://github.com/Fukki-Z/nodefree) - 每日更新 ｜免费翻墙、免费科学上网、免费节点、免费梯子、免费订阅链接、蓝灯、熊猫、谷歌商店、youtobe｜vmess/clash/v2ray/trojan/sr/ssr
+
+*   [bdvajstudio/javdb](https://github.com/bdvajstudio/javdb) - javdb official app
 
 ## Kotlin
 
