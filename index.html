@@ -328,7 +328,7 @@
       // 加载数据
       categoriesContainer.innerHTML = '<div class="flex justify-center items-center h-64"><div class="animate-spin rounded-full h-12 w-12 border-b-2 border-sky-500"></div></div>';
 
-      fetch('https://raw.githubusercontent.com/你的github名字/some-stars/main/data.json')
+      fetch('https://raw.githubusercontent.com/muzi9195/light-stars/main/data.json')
         .then(response => {
           if (!response.ok) throw new Error('Network response was not ok');
           return response.json();
