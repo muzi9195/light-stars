@@ -95,8 +95,6 @@
 
 *   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
-*   [shensk/hxds](https://github.com/shensk/hxds) - 华夏代驾
-
 *   [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【tg10000.com】
 
 *   [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
@@ -406,6 +404,8 @@
 *   [getmoneynote/moneynote-api](https://github.com/getmoneynote/moneynote-api) - Personal Finance Tracker
 
 *   [WrBug/XposedDemo](https://github.com/WrBug/XposedDemo) - Xposed从入门到弃坑 系列教程源码
+
+*   [lkmc2/SpringBootMovie](https://github.com/lkmc2/SpringBootMovie) - 基于Spring Boot的电影网站
 
 ## Dockerfile
 
