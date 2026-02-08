@@ -15,9 +15,9 @@
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
-*   [Go](#go)
 *   [C++](#c)
 *   [Dart](#dart)
+*   [Go](#go)
 *   [Shell](#shell)
 *   [Vue](#vue)
 *   [Visual Basic .NET](#visual-basic-net)
@@ -217,7 +217,7 @@
 
 *   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
-*   [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【tg10000.com】
+*   [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集、tg导航，附全网最有趣好用的机器人BOT🤖【tg10000.com】
 
 *   [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
 
@@ -267,24 +267,6 @@
 
 *   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 
-## Go
-
-*   [p-box2025/P-BOX](https://github.com/p-box2025/P-BOX) - Professional, modern, and high-performance proxy management platform supporting 18+ protocols, transparent proxying, inbound services, tunnel management, WireGuard, and cloud-native integrations.
-
-*   [WCY-dt/MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器.
-
-*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-
-*   [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
-
-*   [linkease/docker-for-android](https://github.com/linkease/docker-for-android) - 为 Android 底层提供原生的 Docker 能力。Android 系统必须支持 adb root 才行。
-
-*   [OpenIoTHub/gateway-go](https://github.com/OpenIoTHub/gateway-go) - 🎁Running on the LAN to receive remote access requests for OpenIoTHub,display a QR code for adding on the client side\[云亿连访问内网端口和设备的网关，运行在你需要访问的远程内网，展示一个二维码用于客户端添加]
-
-*   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
-
-*   [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
-
 ## C++
 
 *   [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -306,6 +288,22 @@
 *   [TNT-Likely/BeeCount](https://github.com/TNT-Likely/BeeCount) - 🐝 开源记账App，支持iCloud/自建服务器同步(Supabase/WebDAV/S3)，AI智能记账 | Open-source finance tracker with iCloud & self-hosted sync (Supabase/WebDAV/S3), AI-powered bookkeeping, cross-platform, privacy-first
 
 *   [OpenListTeam/OpenList-Mobile](https://github.com/OpenListTeam/OpenList-Mobile) - Flutter-based mobile app for managing files with OpenList.
+
+## Go
+
+*   [WCY-dt/MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器.
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+
+*   [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
+
+*   [linkease/docker-for-android](https://github.com/linkease/docker-for-android) - 为 Android 底层提供原生的 Docker 能力。Android 系统必须支持 adb root 才行。
+
+*   [OpenIoTHub/gateway-go](https://github.com/OpenIoTHub/gateway-go) - 🎁Running on the LAN to receive remote access requests for OpenIoTHub,display a QR code for adding on the client side\[云亿连访问内网端口和设备的网关，运行在你需要访问的远程内网，展示一个二维码用于客户端添加]
+
+*   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
+
+*   [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
 
 ## Shell
 
@@ -408,6 +406,8 @@
 *   [getmoneynote/moneynote-api](https://github.com/getmoneynote/moneynote-api) - Personal Finance Tracker
 
 *   [WrBug/XposedDemo](https://github.com/WrBug/XposedDemo) - Xposed从入门到弃坑 系列教程源码
+
+*   [lkmc2/SpringBootMovie](https://github.com/lkmc2/SpringBootMovie) - 基于Spring Boot的电影网站
 
 ## Dockerfile
 
