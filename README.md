@@ -10,14 +10,16 @@
 
 ## Table of Contents
 
+*   [Java](#java)
+*   [Markdown](#markdown)
+*   [JavaScript](#javascript)
+*   [Python](#python)
 *   [Kotlin](#kotlin)
 *   [Stylus](#stylus)
 *   [Dart](#dart)
 *   [Shell](#shell)
-*   [JavaScript](#javascript)
 *   [Astro](#astro)
 *   [TypeScript](#typescript)
-*   [Python](#python)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c)
@@ -25,7 +27,6 @@
 *   [Vue](#vue)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Rust](#rust)
-*   [Java](#java)
 *   [Dockerfile](#dockerfile)
 *   [C](#c-1)
 *   [C#](#c-2)
@@ -35,61 +36,66 @@
 *   [AutoHotkey](#autohotkey)
 *   [Svelte](#svelte)
 *   [Cuda](#cuda)
-*   [Smali](#smali)
 
-## Kotlin
+## Java
 
-*   [xigua222/photoo](https://github.com/xigua222/photoo) - photoo 是一款 Android 原生的极简照片整理工具。滑动卡片就能快速整理相册——左滑删除，右滑收藏，上滑保留。还有一系列"该有的全都有"的功能：相册分析生成专属摄影画像、沉浸式回顾喜爱照片、智能识别相似照片和低质量图片、视频和图片压缩......  但 photoo 不只是一个"清理"软件，它更是"回忆"。
+*   [nageoffer/ragent](https://github.com/nageoffer/ragent) - RAG综合智能体 - 基于Spring Boot的智能文档处理与检索系统，集成向量数据库，拥有智能问答、知识库、会话记忆、深度思考等功能
 
-*   [damontecres/StashAppAndroidTV](https://github.com/damontecres/StashAppAndroidTV) - Android/Fire TV App for Stash
+*   [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) -
 
-*   [ChaoMixian/vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+*   [metersphere/metersphere](https://github.com/metersphere/metersphere) - 🔥 MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 
-*   [bug-bit/NzHelper](https://github.com/bug-bit/NzHelper) - 一个简单、高效、易用的打飞机记录工具，帮助你科学管理✈️生活
+*   [liyupi/yu-ai-code-mother](https://github.com/liyupi/yu-ai-code-mother) - 编程导航 AI + 微服务全栈新项目，基于 Spring Boot 3 + LangChain4j 的大厂 AI 应用生成平台，支持多种模式的智能代码生成、可视化编辑预览、一键部署分享、应用管理、AI 智能路由等。覆盖 AI 智能体开发、LangGraph4j 工作流、Tool Calling、SSE、Vue 3 全栈开发、Spring Cloud 微服务架构、MySQL / Redis / COS / Caffeine 存储、Nginx、多种设计模式、ARMS + Prometheus + Grafana 监控、Cursor Vibe Coding 等核心技术。 用一套教程掌握大厂级 AI 智能体开发+前后端核心技术，成为 AI 时代企业的香饽饽，给你的简历增加竞争力
 
-*   [dessalines/habit-maker](https://github.com/dessalines/habit-maker) - A reward-based habit tracker for android.
+*   [weixiansen574/HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
 
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+*   [Drome586/WeChat-Chauffeur](https://github.com/Drome586/WeChat-Chauffeur) - 基于微信小程序开发的代驾项目
 
-*   [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
+*   [a-noah2021/hxds](https://github.com/a-noah2021/hxds) - 多端全栈项目实战：商业级代驾全流程落地
 
-*   [Yalantis/SearchFilter](https://github.com/Yalantis/SearchFilter) - Implementing Search Filter Animation in Kotlin for Quora Meets LinkedIn, Our App Design Concept
+*   [cxkbalq/ZhiLianDaJia](https://github.com/cxkbalq/ZhiLianDaJia) - 这个是一个，微服务架构的，微信小程序的代驾项目，以b站乐享代驾为基础，进行开发和修改，供学习和交流
 
-*   [lapism/search](https://github.com/lapism/search) - Material You Search component for Android, SearchView
+*   [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
 
-*   [Zackratos/UltimateBarX](https://github.com/Zackratos/UltimateBarX) - Make Android transparent statusbar and navigationbar easy.
+*   [lingzhexi/daijia-parent](https://github.com/lingzhexi/daijia-parent) - 乐尚代驾 小程序
 
-## Stylus
+*   [chaofengdev/shangting-lease](https://github.com/chaofengdev/shangting-lease) - 尚庭公寓完整源码
 
-*   [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
+*   [TangyoZapByte/springboot-Apartment](https://github.com/TangyoZapByte/springboot-Apartment) -
 
-## Dart
+*   [rainweb521/nursingHome](https://github.com/rainweb521/nursingHome) - 智慧养老院系统的设计与实现
 
-*   [shiyi-0x7f/olib-mobile](https://github.com/shiyi-0x7f/olib-mobile) - 🤖 An open-source ebook reader built entirely with AI assistance. Third-party client, frontend interface only.
+*   [LittleCoolguy/face-web](https://github.com/LittleCoolguy/face-web) - Java人脸识别登录
 
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+*   [JasperZhan/English-Study-Web](https://github.com/JasperZhan/English-Study-Web) - 一个基于 Spring Boot + Mybatis + Bootstrap 的背诵单词应用
 
-*   [TNT-Likely/BeeCount](https://github.com/TNT-Likely/BeeCount) - 🐝 开源记账App，支持iCloud/自建服务器同步(Supabase/WebDAV/S3)，AI智能记账 | Open-source finance tracker with iCloud & self-hosted sync (Supabase/WebDAV/S3), AI-powered bookkeeping, cross-platform, privacy-first
+*   [whypro/Hello-Word](https://github.com/whypro/Hello-Word) - 用 JAVA(J2SE) 实现的一个背单词程序，可自由选择词库。
 
-*   [OpenListTeam/OpenList-Mobile](https://github.com/OpenListTeam/OpenList-Mobile) - Flutter-based mobile app for managing files with OpenList.
+*   [saysky/StudyEnglish](https://github.com/saysky/StudyEnglish) - SpringBoot学习英语系统 背单词系统
 
-## Shell
+*   [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
 
-*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+*   [ToBeTopCoder/web\_bookstore](https://github.com/ToBeTopCoder/web_bookstore) - 网上书城
 
-*   [vbgate/learn-opencode](https://github.com/vbgate/learn-opencode) - OpenCode 中文实战课源码与内容仓库：一课一页，覆盖入门到实战工作流。
+*   [eson15/Javaweb\_bookstore](https://github.com/eson15/Javaweb_bookstore) - 基于servlet+jsp+mysql做的一个简易的网上书店项目源码
 
-*   [Rocky7842/OTA\_provider](https://github.com/Rocky7842/OTA_provider) -
+*   [BadCodeSucks/association](https://github.com/BadCodeSucks/association) - 高校社团管理系统
 
-*   [amclubs/am-serv00-huggingface](https://github.com/amclubs/am-serv00-huggingface) - 通过huggingface部署青龙面板,实现serv00、socks5、vmess节点等在serv00里部署的程序保活
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 
-*   [vevc/one-node](https://github.com/vevc/one-node) - 万物皆可搭节点 | Everything can be a proxy node
+*   [KiritoSun/Springboot-Course](https://github.com/KiritoSun/Springboot-Course) - springboot+mybatis学生选课系统
 
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+*   [getmoneynote/moneynote-api](https://github.com/getmoneynote/moneynote-api) - Personal Finance Tracker
 
-*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+*   [WrBug/XposedDemo](https://github.com/WrBug/XposedDemo) - Xposed从入门到弃坑 系列教程源码
+
+## Markdown
+
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## JavaScript
+
+*   [YangShengzhou03/Jobs\_helper](https://github.com/YangShengzhou03/Jobs_helper) - 海投助手是一款为求职者打造的浏览器脚本插件，可以提升求职效率。初期聚焦于 Boss直聘 平台，通过自动化简历投递、AI智能回复HR消息等功能，帮助用户减少大量重复性操作，显著提高投递效率。
 
 *   [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 
@@ -171,55 +177,9 @@
 
 *   [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 
-## Astro
-
-*   [evepupil/notion-fuwari](https://github.com/evepupil/notion-fuwari) - 魔改版Fuwari，Notion作为CMS的自用博客
-
-## TypeScript
-
-*   [shuaiplus/NodeWarden](https://github.com/shuaiplus/NodeWarden) - A third-party Bitwarden server running on Cloudflare Workers
-
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-
-*   [du2333/flare-stack-blog](https://github.com/du2333/flare-stack-blog) - 全栈个人博客，由Cloudflare全家桶驱动
-
-*   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
-
-*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-
-*   [openRin/Rin](https://github.com/openRin/Rin) - ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
-
-*   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-
-*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-
-*   [afoim/easy\_cover](https://github.com/afoim/easy_cover) - 简单封面图生成器
-
-*   [AlistGo/alist-web](https://github.com/AlistGo/alist-web) - 🗂️ The front end of Alist V3 (A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs)
-
-*   [henjicc/Henji-AI](https://github.com/henjicc/Henji-AI) - 痕迹AI - 一个软件用上各种AI！聚合多家供应商，一站式生成图片、视频和音频
-
-*   [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-
-*   [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-
-*   [glink25/Cent](https://github.com/glink25/Cent) - 完全免费、开源的多人协作记账 Web App | Completely free, open-source, collaborative accounting Web App
-
-*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
-
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-
-*   [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
-
-*   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-
-*   [mooflu/WebViewPlus](https://github.com/mooflu/WebViewPlus) - Browser file viewer
-
-*   [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
-
-*   [latentcat/latentbox](https://github.com/latentcat/latentbox) - A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com
-
 ## Python
+
+*   [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
 *   [BAI-LAB/MemoryOS](https://github.com/BAI-LAB/MemoryOS) - \[EMNLP 2025 Oral] MemoryOS is designed to provide a memory operating system for personalized AI agents.
 
@@ -264,6 +224,104 @@
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 *   [hluwa/frida-dexdump](https://github.com/hluwa/frida-dexdump) - A frida tool to dump dex in memory to support security engineers analyzing malware.
+
+## Kotlin
+
+*   [xigua222/photoo](https://github.com/xigua222/photoo) - photoo 是一款 Android 原生的极简照片整理工具。滑动卡片就能快速整理相册——左滑删除，右滑收藏，上滑保留。还有一系列"该有的全都有"的功能：相册分析生成专属摄影画像、沉浸式回顾喜爱照片、智能识别相似照片和低质量图片、视频和图片压缩......  但 photoo 不只是一个"清理"软件，它更是"回忆"。
+
+*   [damontecres/StashAppAndroidTV](https://github.com/damontecres/StashAppAndroidTV) - Android/Fire TV App for Stash
+
+*   [ChaoMixian/vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+
+*   [dessalines/habit-maker](https://github.com/dessalines/habit-maker) - A reward-based habit tracker for android.
+
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
+
+*   [Yalantis/SearchFilter](https://github.com/Yalantis/SearchFilter) - Implementing Search Filter Animation in Kotlin for Quora Meets LinkedIn, Our App Design Concept
+
+*   [lapism/search](https://github.com/lapism/search) - Material You Search component for Android, SearchView
+
+*   [Zackratos/UltimateBarX](https://github.com/Zackratos/UltimateBarX) - Make Android transparent statusbar and navigationbar easy.
+
+## Stylus
+
+*   [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
+
+## Dart
+
+*   [shiyi-0x7f/olib-mobile](https://github.com/shiyi-0x7f/olib-mobile) - 🤖 An open-source ebook reader built entirely with AI assistance. Third-party client, frontend interface only.
+
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+*   [TNT-Likely/BeeCount](https://github.com/TNT-Likely/BeeCount) - 🐝 开源记账App，支持iCloud/自建服务器同步(Supabase/WebDAV/S3)，AI智能记账 | Open-source finance tracker with iCloud & self-hosted sync (Supabase/WebDAV/S3), AI-powered bookkeeping, cross-platform, privacy-first
+
+*   [OpenListTeam/OpenList-Mobile](https://github.com/OpenListTeam/OpenList-Mobile) - Flutter-based mobile app for managing files with OpenList.
+
+## Shell
+
+*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+
+*   [vbgate/learn-opencode](https://github.com/vbgate/learn-opencode) - OpenCode 中文实战课源码与内容仓库：一课一页，覆盖入门到实战工作流。
+
+*   [Rocky7842/OTA\_provider](https://github.com/Rocky7842/OTA_provider) -
+
+*   [amclubs/am-serv00-huggingface](https://github.com/amclubs/am-serv00-huggingface) - 通过huggingface部署青龙面板,实现serv00、socks5、vmess节点等在serv00里部署的程序保活
+
+*   [vevc/one-node](https://github.com/vevc/one-node) - 万物皆可搭节点 | Everything can be a proxy node
+
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+
+*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+
+## Astro
+
+*   [evepupil/notion-fuwari](https://github.com/evepupil/notion-fuwari) - 魔改版Fuwari，Notion作为CMS的自用博客
+
+## TypeScript
+
+*   [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - A third-party Bitwarden server running on Cloudflare Workers
+
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+*   [du2333/flare-stack-blog](https://github.com/du2333/flare-stack-blog) - 全栈个人博客，由Cloudflare全家桶驱动
+
+*   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
+
+*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+
+*   [openRin/Rin](https://github.com/openRin/Rin) - ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
+
+*   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+
+*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+
+*   [afoim/easy\_cover](https://github.com/afoim/easy_cover) - 简单封面图生成器
+
+*   [AlistGo/alist-web](https://github.com/AlistGo/alist-web) - 🗂️ The front end of Alist V3 (A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs)
+
+*   [henjicc/Henji-AI](https://github.com/henjicc/Henji-AI) - 痕迹AI - 一个软件用上各种AI！聚合多家供应商，一站式生成图片、视频和音频
+
+*   [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+
+*   [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+
+*   [glink25/Cent](https://github.com/glink25/Cent) - 完全免费、开源的多人协作记账 Web App | Completely free, open-source, collaborative accounting Web App
+
+*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+
+*   [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
+
+*   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
+
+*   [mooflu/WebViewPlus](https://github.com/mooflu/WebViewPlus) - Browser file viewer
+
+*   [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
+
+*   [latentcat/latentbox](https://github.com/latentcat/latentbox) - A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com
 
 ## HTML
 
@@ -325,8 +383,6 @@
 
 *   [LIUJJGH/Intellij-IDEA-2022-unlock](https://github.com/LIUJJGH/Intellij-IDEA-2022-unlock) - JAVA\_IDEA\_破解
 
-*   [Xposed-Modules-Repo/me.jsonet.jshook](https://github.com/Xposed-Modules-Repo/me.jsonet.jshook) - 用js实现hook 支持java层和native层
-
 ## C++
 
 *   [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -338,8 +394,6 @@
 *   [Didnelpsun/CS408](https://github.com/Didnelpsun/CS408) - 考研计算机科学408笔记整理
 
 *   [sukhoeing/aoapc-bac2nd-keys](https://github.com/sukhoeing/aoapc-bac2nd-keys) - 算法竞赛入门经典第2版-习题选解
-
-*   [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
 
 ## Go
 
@@ -391,56 +445,6 @@
 
 *   [NiREvil/vless](https://github.com/NiREvil/vless) - v2ray subscription links
 
-## Java
-
-*   [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) -
-
-*   [metersphere/metersphere](https://github.com/metersphere/metersphere) - 🔥 MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
-
-*   [liyupi/yu-ai-code-mother](https://github.com/liyupi/yu-ai-code-mother) - 编程导航 AI + 微服务全栈新项目，基于 Spring Boot 3 + LangChain4j 的大厂 AI 应用生成平台，支持多种模式的智能代码生成、可视化编辑预览、一键部署分享、应用管理、AI 智能路由等。覆盖 AI 智能体开发、LangGraph4j 工作流、Tool Calling、SSE、Vue 3 全栈开发、Spring Cloud 微服务架构、MySQL / Redis / COS / Caffeine 存储、Nginx、多种设计模式、ARMS + Prometheus + Grafana 监控、Cursor Vibe Coding 等核心技术。 用一套教程掌握大厂级 AI 智能体开发+前后端核心技术，成为 AI 时代企业的香饽饽，给你的简历增加竞争力
-
-*   [weixiansen574/HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
-
-*   [Drome586/WeChat-Chauffeur](https://github.com/Drome586/WeChat-Chauffeur) - 基于微信小程序开发的代驾项目
-
-*   [a-noah2021/hxds](https://github.com/a-noah2021/hxds) - 多端全栈项目实战：商业级代驾全流程落地
-
-*   [cxkbalq/ZhiLianDaJia](https://github.com/cxkbalq/ZhiLianDaJia) - 这个是一个，微服务架构的，微信小程序的代驾项目，以b站乐享代驾为基础，进行开发和修改，供学习和交流
-
-*   [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
-
-*   [lingzhexi/daijia-parent](https://github.com/lingzhexi/daijia-parent) - 乐尚代驾 小程序
-
-*   [chaofengdev/shangting-lease](https://github.com/chaofengdev/shangting-lease) - 尚庭公寓完整源码
-
-*   [TangyoZapByte/springboot-Apartment](https://github.com/TangyoZapByte/springboot-Apartment) -
-
-*   [rainweb521/nursingHome](https://github.com/rainweb521/nursingHome) - 智慧养老院系统的设计与实现
-
-*   [LittleCoolguy/face-web](https://github.com/LittleCoolguy/face-web) - Java人脸识别登录
-
-*   [JasperZhan/English-Study-Web](https://github.com/JasperZhan/English-Study-Web) - 一个基于 Spring Boot + Mybatis + Bootstrap 的背诵单词应用
-
-*   [whypro/Hello-Word](https://github.com/whypro/Hello-Word) - 用 JAVA(J2SE) 实现的一个背单词程序，可自由选择词库。
-
-*   [saysky/StudyEnglish](https://github.com/saysky/StudyEnglish) - SpringBoot学习英语系统 背单词系统
-
-*   [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
-
-*   [ToBeTopCoder/web\_bookstore](https://github.com/ToBeTopCoder/web_bookstore) - 网上书城
-
-*   [eson15/Javaweb\_bookstore](https://github.com/eson15/Javaweb_bookstore) - 基于servlet+jsp+mysql做的一个简易的网上书店项目源码
-
-*   [BadCodeSucks/association](https://github.com/BadCodeSucks/association) - 高校社团管理系统
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-
-*   [KiritoSun/Springboot-Course](https://github.com/KiritoSun/Springboot-Course) - springboot+mybatis学生选课系统
-
-*   [getmoneynote/moneynote-api](https://github.com/getmoneynote/moneynote-api) - Personal Finance Tracker
-
-*   [WrBug/XposedDemo](https://github.com/WrBug/XposedDemo) - Xposed从入门到弃坑 系列教程源码
-
 ## Dockerfile
 
 *   [loganoxo/sub-store-cf-tunnel](https://github.com/loganoxo/sub-store-cf-tunnel) - sub-store修改版docker镜像, 使用cloudflare tunnel隧道, 解决clawcloud不能绑定域名的问题
@@ -484,7 +488,3 @@
 ## Cuda
 
 *   [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
-
-## Smali
-
-*   [langgithub/RXjadx](https://github.com/langgithub/RXjadx) - Fart脱壳后指令抽取修复 jadx对抗 对抗jadx Fart脱壳 Android脱壳 dexDump dex主动抽取
