@@ -10,26 +10,26 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
+*   [Rust](#rust)
+*   [C++](#c)
+*   [Python](#python)
+*   [Go](#go)
+*   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
+*   [C#](#c-1)
+*   [HTML](#html)
+*   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [Shell](#shell)
 *   [Batchfile](#batchfile)
-*   [HTML](#html)
-*   [TypeScript](#typescript)
-*   [Go](#go)
 *   [Dart](#dart)
 *   [Java](#java)
 *   [Swift](#swift)
-*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Zig](#zig)
-*   [C#](#c)
-*   [Rust](#rust)
 *   [Markdown](#markdown)
 *   [Stylus](#stylus)
 *   [Astro](#astro)
-*   [C++](#c-1)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Dockerfile](#dockerfile)
 *   [C](#c-2)
@@ -39,7 +39,310 @@
 *   [Svelte](#svelte)
 *   [Cuda](#cuda)
 *   [Smali](#smali)
-*   [Clojure](#clojure)
+
+## Rust
+
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+*   [jimuzhe/tiez-clipboard](https://github.com/jimuzhe/tiez-clipboard) - TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows.
+
+*   [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款剪贴板增强工具， 让你的复制与粘贴更加智能、高效与愉悦
+
+*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
+*   [NiREvil/vless](https://github.com/NiREvil/vless) - v2ray subscription links
+
+*   [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
+
+*   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
+
+## C++
+
+*   [RohitKushvaha01/TaskManager](https://github.com/RohitKushvaha01/TaskManager) - A Task Manager for android
+
+*   [gaboolic/moqi-im-windows](https://github.com/gaboolic/moqi-im-windows) -  墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。群：696353204
+
+*   [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
+
+*   [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+
+*   [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
+
+*   [CodePanda66/CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408) - 💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源
+
+*   [Didnelpsun/CS408](https://github.com/Didnelpsun/CS408) - 考研计算机科学408笔记整理
+
+*   [sukhoeing/aoapc-bac2nd-keys](https://github.com/sukhoeing/aoapc-bac2nd-keys) - 算法竞赛入门经典第2版-习题选解
+
+*   [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
+
+*   [callmePicacho/Data-Structres](https://github.com/callmePicacho/Data-Structres) - 浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解
+
+*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+
+## Python
+
+*   [zhiyiYo/Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8) - A cross-platform m3u8/mpd downloader based on PySide6 and QFluentWidgets.
+
+*   [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
+
+*   [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.
+
+*   [crimera/twitter-apk](https://github.com/crimera/twitter-apk) - Apk builds of piko patches
+
+*   [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves
+
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
+
+*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+
+*   [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
+
+*   [BAI-LAB/MemoryOS](https://github.com/BAI-LAB/MemoryOS) - \[EMNLP 2025 Oral] MemoryOS is designed to provide a memory operating system for personalized AI agents.
+
+*   [Supprise0901/TVBox\_live](https://github.com/Supprise0901/TVBox_live) - 直播源检索、测速、优选
+
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+
+*   [zstar1003/ragflow-plus](https://github.com/zstar1003/ragflow-plus) - Ragflow-Plus 是 Ragflow 的二次开发版本，使其更为简洁实用
+
+*   [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
+
+*   [LC044/TrailSnap](https://github.com/LC044/TrailSnap) - 行影集——你的私人AI智能相册
+
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
+
+*   [oyz8/ClawCloud-Run](https://github.com/oyz8/ClawCloud-Run) - 自动登录 ClawCloud，保持账户活跃，支持设备验证 + 两步验证
+
+*   [cmliu/webssh](https://github.com/cmliu/webssh) - WebSSH 是一个基于 Web 的轻量级 SSH 管理工具，方便地在浏览器中进行安全的远程服务器管理。
+
+*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
+
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [wenzhenze/DeltaforceCard](https://github.com/wenzhenze/DeltaforceCard) - 三角洲抢卡脚本
+
+*   [TideTree/public-apis-cn](https://github.com/TideTree/public-apis-cn) - Public APIs 中文版 - 为中文开发者精心整理的公共API资源库
+
+*   [T-duality/PillOCR-python](https://github.com/T-duality/PillOCR-python) - 一个基于大模型api的OCR工具。
+
+*   [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
+
+*   [marblexu/PythonGobang](https://github.com/marblexu/PythonGobang) - a simple gobang AI
+
+*   [colingogogo/gobang\_AI](https://github.com/colingogogo/gobang_AI) - 基于博弈树α-β剪枝搜索的五子棋AI
+
+*   [tctctctctc/python-gobang](https://github.com/tctctctctc/python-gobang) - Gobang developed with  python/python 五子棋
+
+*   [un-poco/Python-gobang](https://github.com/un-poco/Python-gobang) - python课设：五子棋
+
+*   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [hluwa/frida-dexdump](https://github.com/hluwa/frida-dexdump) - A frida tool to dump dex in memory to support security engineers analyzing malware.
+
+*   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+
+## Go
+
+*   [linzixuanzz/daidai-panel](https://github.com/linzixuanzz/daidai-panel) - Lightweight scheduled task management panel, similar to Qinglong Panel. 轻量级定时任务管理面板
+
+*   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
+
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
+
+*   [Resinat/Resin](https://github.com/Resinat/Resin) - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.
+
+*   [pureages/HideVideo](https://github.com/pureages/HideVideo) - A lightweight personal video management library driven by the Go language. 轻量级个人视频管理库，Go语言驱动。与刮削视频的库不同，HideVideo更注重个人一些杂七杂八的视频的收藏。适合NAS，个人服务器。
+
+*   [WCY-dt/MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器.
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+
+*   [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
+
+*   [linkease/docker-for-android](https://github.com/linkease/docker-for-android) - 为 Android 底层提供原生的 Docker 能力。Android 系统必须支持 adb root 才行。
+
+*   [OpenIoTHub/gateway-go](https://github.com/OpenIoTHub/gateway-go) - 🎁Running on the LAN to receive remote access requests for OpenIoTHub,display a QR code for adding on the client side\[云亿连访问内网端口和设备的网关，运行在你需要访问的远程内网，展示一个二维码用于客户端添加]
+
+*   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
+
+*   [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
+
+## TypeScript
+
+*   [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI) - https://lehhair.github.io/OpenCodeUI/
+
+*   [KatouRyuuji/TagLauncher](https://github.com/KatouRyuuji/TagLauncher) - A Tauri + React desktop tag launcher
+
+*   [LBF38/obsidian-syncthing-integration](https://github.com/LBF38/obsidian-syncthing-integration) - Obsidian plugin for Syncthing integration
+
+*   [legeling/PromptHub](https://github.com/legeling/PromptHub) - 一款开源、纯本地 Prompt ，Skill 管理工具，帮助你高效管理、版本控制和复用 Prompt，并一键分发skill | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts
+
+*   [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run  Hermes Agent/OpenClaw/n8n/Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...
+
+*   [WuMingDao/claude-code-v-2.1.88](https://github.com/WuMingDao/claude-code-v-2.1.88) -
+
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+
+*   [xigua222/ObShare](https://github.com/xigua222/ObShare) - 基于飞书云文档的Obsidian笔记同步与分享方案  Obsidian Note Synchronization and Sharing Solution Based on Feishu Docs
+
+*   [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
+
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+*   [du2333/flare-stack-blog](https://github.com/du2333/flare-stack-blog) - A modern full-stack blog CMS driven by Cloudflare. | 基于 Cloudflare 生态的全栈现代化博客 CMS。
+
+*   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
+
+*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+
+*   [openRin/Rin](https://github.com/openRin/Rin) - 🌸Publish faster with an edge-native blog powered by Cloudflare Workers, D1, and R2
+
+*   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+
+*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+
+*   [afoim/easy\_cover](https://github.com/afoim/easy_cover) - 简单封面图生成器
+
+*   [AlistGo/alist-web](https://github.com/AlistGo/alist-web) - 🗂️ The front end of Alist V3 (A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs)
+
+*   [binbankm/Sub-One](https://github.com/binbankm/Sub-One) - 订阅管理
+
+*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
+
+*   [henjicc/Henji-AI](https://github.com/henjicc/Henji-AI) - 痕迹AI - 一个软件用上各种AI！聚合多家供应商，一站式生成图片、视频和音频
+
+*   [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+
+*   [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+
+*   [glink25/Cent](https://github.com/glink25/Cent) - 完全免费、开源的多人协作记账 Web App | Completely free, open-source, collaborative accounting Web App
+
+*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+
+*   [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
+
+*   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
+
+*   [mooflu/WebViewPlus](https://github.com/mooflu/WebViewPlus) - Browser file viewer
+
+*   [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
+
+*   [latentcat/latentbox](https://github.com/latentcat/latentbox) - A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com
+
+*   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
+
+*   [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
+
+*   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
+
+*   [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
+
+## Kotlin
+
+*   [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai) - 原生、纯净、可扩展 —— 重新定义你的 B 站体验
+
+*   [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+
+*   [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) - 语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
+
+*   [Itosang/BatteryRecorder](https://github.com/Itosang/BatteryRecorder) - 利用特权进行后台充放电功率记录，并支持 App 预览功率数据，并续航预测，支持 Root & Shell
+
+*   [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) - 使用 腾讯X5 WebView 开发的电视直播App
+
+*   [mulkymalikuldhrs/opencode-android](https://github.com/mulkymalikuldhrs/opencode-android) - Opencode Android Client - Full-featured OpenCode client for Android with real-time AI chat, terminal, file manager, and code editor. Connects to OpenCode server via 50+ API endpoints.
+
+*   [xigua222/photoo](https://github.com/xigua222/photoo) - photoo 是一款 Android 原生的极简照片整理工具。滑动卡片就能快速整理相册——左滑删除，右滑收藏，上滑保留。还有一系列"该有的全都有"的功能：相册分析生成专属摄影画像、沉浸式回顾喜爱照片、智能识别相似照片和低质量图片、视频和图片压缩......  但 photoo 不只是一个"清理"软件，它更是"回忆"。
+
+*   [damontecres/StashAppAndroidTV](https://github.com/damontecres/StashAppAndroidTV) - Android/Fire TV App for Stash
+
+*   [ChaoMixian/vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+
+*   [dessalines/habit-maker](https://github.com/dessalines/habit-maker) - A reward-based habit tracker for android.
+
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
+
+*   [Yalantis/SearchFilter](https://github.com/Yalantis/SearchFilter) - Implementing Search Filter Animation in Kotlin for Quora Meets LinkedIn, Our App Design Concept
+
+*   [lapism/search](https://github.com/lapism/search) - Material You Search component for Android, SearchView
+
+*   [Zackratos/UltimateBarX](https://github.com/Zackratos/UltimateBarX) - Make Android transparent statusbar and navigationbar easy.
+
+*   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
+
+*   [Krosxx/Android-Auto-Api](https://github.com/Krosxx/Android-Auto-Api) - 安卓无障碍服务Api, 为了简化无障碍服务使用，并使用 Kotlin 以提供简洁的Api。
+
+*   [wbb631094818/GlobalSearchTool](https://github.com/wbb631094818/GlobalSearchTool) - Android 端全局搜索APP
+
+*   [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) - ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
+
+*   [littleWhiteDuck/SimpleHook](https://github.com/littleWhiteDuck/SimpleHook) - SimpleHook hook部分代码
+
+## C\#
+
+*   [phaselden/FlipIt](https://github.com/phaselden/FlipIt) - Flip Clock screensaver
+
+*   [mxyhi/ok-skills](https://github.com/mxyhi/ok-skills) - Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-compatible tools.
+
+*   [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
+
+*   [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) - ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
+
+*   [944095635/WallpaperMaker](https://github.com/944095635/WallpaperMaker) - Windows 桌面动态壁纸 视频壁纸
+
+*   [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 现代化 Android & OpenHarmony 工具箱 | A Modern Toolbox for Android & OpenHarmony Devices
+
+*   [Ponderfly/GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 扫描国内可用的谷歌翻译IP
+
+*   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
+
+## HTML
+
+*   [dengxiwang/gotab-personal](https://github.com/dengxiwang/gotab-personal) - GoTab 新标签页是一款免费、简约、美观大气，超高自定义程度的导航/起始页，满足您的各项要求！支持docker一键部署！轻松打造个性化浏览器主页/起始页！适用于私有化部署专属企业内部或者个人的个性导航页/导航网站/主页/欢迎页/NAS导航页！
+
+*   [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) - HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
+
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
+*   [wugeng20/openlist-glassmorphism-theme](https://github.com/wugeng20/openlist-glassmorphism-theme) - 为OpenLIst/AList设计的现代玻璃拟态UI主题，融合动态视频背景、响应式设计与现代 UI 效果，带来沉浸式视觉体验。
+
+*   [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
+
+*   [souvenp/memos-worker](https://github.com/souvenp/memos-worker) - Memos Worker: A Cloudflare-Powered Notes and Knowledge Base. 由 Cloudflare 驱动的笔记与知识库。Site: https://demo.memos-demo.workers.dev/ username: memos password: memos
+
+*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
+
+*   [CodingDocs/typora-markdown-resume](https://github.com/CodingDocs/typora-markdown-resume) - Markdown 格式程序员简历模板，简洁大方！
+
+*   [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) - ⭐️ Markdown 简历模版
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [SanctuaryChan/408Master](https://github.com/SanctuaryChan/408Master) - 考研408学习笔记
+
+*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100: 2026年系统架构设计师（软考高级）备考资料。
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+*   [Nriver/trilium-translation](https://github.com/Nriver/trilium-translation) - Translation for Trilium Notes. Trilium Notes 中文适配, 体验优化
+
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+
+*   [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 
 ## JavaScript
 
@@ -59,7 +362,7 @@
 
 *   [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
 
-*   [liyupi/ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档，已升级为鱼皮 AI 导航网站
+*   [liyupi/ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档，已升级为鱼皮 AI 导航网站
 
 *   [idinging/freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统 临时邮箱系统 domain mail tempmail
 
@@ -129,46 +432,6 @@
 
 *   [A-Normal-User/JsHook](https://github.com/A-Normal-User/JsHook) - 让JSHOOK更方便
 
-## Kotlin
-
-*   [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) - 语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
-
-*   [Itosang/BatteryRecorder](https://github.com/Itosang/BatteryRecorder) - 利用特权进行后台充放电功率记录，并支持 App 预览功率数据，并续航预测，支持 Root & Shell
-
-*   [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) - 使用 腾讯X5 WebView 开发的电视直播App
-
-*   [mulkymalikuldhrs/opencode-android](https://github.com/mulkymalikuldhrs/opencode-android) - Opencode Android Client - Full-featured OpenCode client for Android with real-time AI chat, terminal, file manager, and code editor. Connects to OpenCode server via 50+ API endpoints.
-
-*   [xigua222/photoo](https://github.com/xigua222/photoo) - photoo 是一款 Android 原生的极简照片整理工具。滑动卡片就能快速整理相册——左滑删除，右滑收藏，上滑保留。还有一系列"该有的全都有"的功能：相册分析生成专属摄影画像、沉浸式回顾喜爱照片、智能识别相似照片和低质量图片、视频和图片压缩......  但 photoo 不只是一个"清理"软件，它更是"回忆"。
-
-*   [damontecres/StashAppAndroidTV](https://github.com/damontecres/StashAppAndroidTV) - Android/Fire TV App for Stash
-
-*   [ChaoMixian/vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
-
-*   [dessalines/habit-maker](https://github.com/dessalines/habit-maker) - A reward-based habit tracker for android.
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
-
-*   [Yalantis/SearchFilter](https://github.com/Yalantis/SearchFilter) - Implementing Search Filter Animation in Kotlin for Quora Meets LinkedIn, Our App Design Concept
-
-*   [lapism/search](https://github.com/lapism/search) - Material You Search component for Android, SearchView
-
-*   [Zackratos/UltimateBarX](https://github.com/Zackratos/UltimateBarX) - Make Android transparent statusbar and navigationbar easy.
-
-*   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-
-*   [Krosxx/Android-Auto-Api](https://github.com/Krosxx/Android-Auto-Api) - 安卓无障碍服务Api, 为了简化无障碍服务使用，并使用 Kotlin 以提供简洁的Api。
-
-*   [wbb631094818/GlobalSearchTool](https://github.com/wbb631094818/GlobalSearchTool) - Android 端全局搜索APP
-
-*   [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) - ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
-
-*   [littleWhiteDuck/SimpleHook](https://github.com/littleWhiteDuck/SimpleHook) - SimpleHook hook部分代码
-
-*   [zhaobozhen/Anywhere-](https://github.com/zhaobozhen/Anywhere-) -
-
 ## Vue
 
 *   [Garry-QD/FlatNas](https://github.com/Garry-QD/FlatNas) - FlatNas 是一个轻量级、高度可定制的个人导航页与仪表盘系统。它基于 Vue 3 和 Express 构建，旨在为 NAS 用户、极客和开发者提供一个优雅的浏览器起始页。
@@ -209,145 +472,11 @@
 
 *   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 
-*   [YAWAsau/backup\_script](https://github.com/YAWAsau/backup_script) - 備份數據腳本
-
 ## Batchfile
 
 *   [cmontage/mas-cn](https://github.com/cmontage/mas-cn) - Windows 和 Office 激活神器 ( Microsoft-Activation-Scripts 简称 MAS ) 的汉化版（中文简体）
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-
-## HTML
-
-*   [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) - HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
-
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-
-*   [wugeng20/openlist-glassmorphism-theme](https://github.com/wugeng20/openlist-glassmorphism-theme) - 为OpenLIst/AList设计的现代玻璃拟态UI主题，融合动态视频背景、响应式设计与现代 UI 效果，带来沉浸式视觉体验。
-
-*   [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
-
-*   [souvenp/memos-worker](https://github.com/souvenp/memos-worker) - Memos Worker: A Cloudflare-Powered Notes and Knowledge Base. 由 Cloudflare 驱动的笔记与知识库。Site: https://demo.memos-demo.workers.dev/ username: memos password: memos
-
-*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
-
-*   [CodingDocs/typora-markdown-resume](https://github.com/CodingDocs/typora-markdown-resume) - Markdown 格式程序员简历模板，简洁大方！
-
-*   [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) - ⭐️ Markdown 简历模版
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [SanctuaryChan/408Master](https://github.com/SanctuaryChan/408Master) - 考研408学习笔记
-
-*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100: 2026年系统架构设计师（软考高级）备考资料。
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
-*   [Nriver/trilium-translation](https://github.com/Nriver/trilium-translation) - Translation for Trilium Notes. Trilium Notes 中文适配, 体验优化
-
-*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-
-*   [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
-
-*   [Heroic-Studio/Google-Mirrors](https://github.com/Heroic-Studio/Google-Mirrors) - Google谷歌、Wikipedia维基百科、谷歌学术镜像2024最新 新增各种镜像站
-
-## TypeScript
-
-*   [KatouRyuuji/TagLauncher](https://github.com/KatouRyuuji/TagLauncher) - A Tauri + React desktop tag launcher
-
-*   [LBF38/obsidian-syncthing-integration](https://github.com/LBF38/obsidian-syncthing-integration) - Obsidian plugin for Syncthing integration
-
-*   [legeling/PromptHub](https://github.com/legeling/PromptHub) - 一款开源、纯本地 Prompt ，Skill 管理工具，帮助你高效管理、版本控制和复用 Prompt，并一键分发skill | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts
-
-*   [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run  Hermes Agent/OpenClaw/n8n/Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...
-
-*   [WuMingDao/claude-code-v-2.1.88](https://github.com/WuMingDao/claude-code-v-2.1.88) -
-
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-
-*   [xigua222/ObShare](https://github.com/xigua222/ObShare) - 基于飞书云文档的Obsidian笔记同步与分享方案  Obsidian Note Synchronization and Sharing Solution Based on Feishu Docs
-
-*   [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - A third-party Bitwarden server running on Cloudflare Workers
-
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-
-*   [du2333/flare-stack-blog](https://github.com/du2333/flare-stack-blog) - A modern full-stack blog CMS driven by Cloudflare. | 基于 Cloudflare 生态的全栈现代化博客 CMS。
-
-*   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
-
-*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-
-*   [openRin/Rin](https://github.com/openRin/Rin) - 🌸Publish faster with an edge-native blog powered by Cloudflare Workers, D1, and R2
-
-*   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-
-*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-
-*   [afoim/easy\_cover](https://github.com/afoim/easy_cover) - 简单封面图生成器
-
-*   [AlistGo/alist-web](https://github.com/AlistGo/alist-web) - 🗂️ The front end of Alist V3 (A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs)
-
-*   [binbankm/Sub-One](https://github.com/binbankm/Sub-One) - 订阅管理
-
-*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
-
-*   [henjicc/Henji-AI](https://github.com/henjicc/Henji-AI) - 痕迹AI - 一个软件用上各种AI！聚合多家供应商，一站式生成图片、视频和音频
-
-*   [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-
-*   [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-
-*   [glink25/Cent](https://github.com/glink25/Cent) - 完全免费、开源的多人协作记账 Web App | Completely free, open-source, collaborative accounting Web App
-
-*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
-
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-
-*   [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
-
-*   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-
-*   [mooflu/WebViewPlus](https://github.com/mooflu/WebViewPlus) - Browser file viewer
-
-*   [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
-
-*   [latentcat/latentbox](https://github.com/latentcat/latentbox) - A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com
-
-*   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-
-*   [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
-
-*   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
-
-*   [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
-
-*   [zmide/study.zmide.com](https://github.com/zmide/study.zmide.com) - 全能搜题网页端源代码，全能搜题项目是一个基于开源社区公开贡献的永久免费搜题系统。
-
-## Go
-
-*   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
-
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
-
-*   [Resinat/Resin](https://github.com/Resinat/Resin) - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.
-
-*   [pureages/HideVideo](https://github.com/pureages/HideVideo) - A lightweight personal video management library driven by the Go language. 轻量级个人视频管理库，Go语言驱动。与刮削视频的库不同，HideVideo更注重个人一些杂七杂八的视频的收藏。适合NAS，个人服务器。
-
-*   [WCY-dt/MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器.
-
-*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-
-*   [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
-
-*   [linkease/docker-for-android](https://github.com/linkease/docker-for-android) - 为 Android 底层提供原生的 Docker 能力。Android 系统必须支持 adb root 才行。
-
-*   [OpenIoTHub/gateway-go](https://github.com/OpenIoTHub/gateway-go) - 🎁Running on the LAN to receive remote access requests for OpenIoTHub,display a QR code for adding on the client side\[云亿连访问内网端口和设备的网关，运行在你需要访问的远程内网，展示一个二维码用于客户端添加]
-
-*   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
-
-*   [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
-
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
 ## Dart
 
@@ -365,15 +494,9 @@
 
 *   [OpenListTeam/OpenList-Mobile](https://github.com/OpenListTeam/OpenList-Mobile) - Flutter-based mobile app for managing files with OpenList.
 
-*   [PicGo/flutter-picgo](https://github.com/PicGo/flutter-picgo) - 🚀 A simple & beautiful mobile tool for pictures uploading built by flutter
-
-*   [designDo/flutter-checkio](https://github.com/designDo/flutter-checkio) - How time flies.一款开源习惯打卡APP，流畅的动画体验，Bloc实现状态管理，主题(颜色)切换，字体切换，数据库管理等。
-
 ## Java
 
 *   [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
-
-*   [lemon8866/StreamVault](https://github.com/lemon8866/StreamVault) - 🎥 视频下载工具，支持多平台，Webhook 通知 + Docker 开箱即用 🚀
 
 *   [yangfeng20/ai-job](https://github.com/yangfeng20/ai-job) - 找工作，用AI工作猎手！让AI帮您找工作！【DeepSeek+ChatGpt】赋能，ai助理作为您的求职者分身7\*24小时在线找工作，并结合您的简历信息定制化回复。批量投递，自动发送简历，交换联系方式。hr拒绝挽留。高意向邮件通知，让您不错过每一份工作机会。BOSS直聘
 
@@ -451,81 +574,13 @@
 
 *   [cgpllx/Search](https://github.com/cgpllx/Search) - android 全局搜索
 
-*   [LGH1996/TapClick](https://github.com/LGH1996/TapClick) - Android自动化点击工具
-
-*   [LGH1996/AccessibilityTool](https://github.com/LGH1996/AccessibilityTool) - 基于Android无障碍服务实现跳过软件启动广告，音量键切换歌曲，记录通知栏消息，调节屏幕色彩亮度等功能，基于Android的设备管理器实现双击状态栏锁屏等功能。
-
 ## Swift
 
 *   [VintLin/skill-flow](https://github.com/VintLin/skill-flow) - Install, manage, and share skills across every major coding agent — Claude Code, Cursor, Copilot, and more.
 
-## Python
-
-*   [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
-
-*   [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.
-
-*   [crimera/twitter-apk](https://github.com/crimera/twitter-apk) - Apk builds of piko patches
-
-*   [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves
-
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
-
-*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-
-*   [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
-
-*   [BAI-LAB/MemoryOS](https://github.com/BAI-LAB/MemoryOS) - \[EMNLP 2025 Oral] MemoryOS is designed to provide a memory operating system for personalized AI agents.
-
-*   [Supprise0901/TVBox\_live](https://github.com/Supprise0901/TVBox_live) - 直播源检索、测速、优选
-
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-
-*   [zstar1003/ragflow-plus](https://github.com/zstar1003/ragflow-plus) - Ragflow-Plus 是 Ragflow 的二次开发版本，使其更为简洁实用
-
-*   [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
-
-*   [LC044/TrailSnap](https://github.com/LC044/TrailSnap) - 行影集——你的私人AI智能相册
-
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
-
-*   [oyz8/ClawCloud-Run](https://github.com/oyz8/ClawCloud-Run) - 自动登录 ClawCloud，保持账户活跃，支持设备验证 + 两步验证
-
-*   [cmliu/webssh](https://github.com/cmliu/webssh) - WebSSH 是一个基于 Web 的轻量级 SSH 管理工具，方便地在浏览器中进行安全的远程服务器管理。
-
-*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
-
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [wenzhenze/DeltaforceCard](https://github.com/wenzhenze/DeltaforceCard) - 三角洲抢卡脚本
-
-*   [TideTree/public-apis-cn](https://github.com/TideTree/public-apis-cn) - Public APIs 中文版 - 为中文开发者精心整理的公共API资源库
-
-*   [T-duality/PillOCR-python](https://github.com/T-duality/PillOCR-python) - 一个基于大模型api的OCR工具。
-
-*   [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
-
-*   [marblexu/PythonGobang](https://github.com/marblexu/PythonGobang) - a simple gobang AI
-
-*   [colingogogo/gobang\_AI](https://github.com/colingogogo/gobang_AI) - 基于博弈树α-β剪枝搜索的五子棋AI
-
-*   [tctctctctc/python-gobang](https://github.com/tctctctctc/python-gobang) - Gobang developed with  python/python 五子棋
-
-*   [un-poco/Python-gobang](https://github.com/un-poco/Python-gobang) - python课设：五子棋
-
-*   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [hluwa/frida-dexdump](https://github.com/hluwa/frida-dexdump) - A frida tool to dump dex in memory to support security engineers analyzing malware.
-
-*   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-
-*   [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
-
 ## miscellaneous
+
+*   [lemon8866/StreamVault](https://github.com/lemon8866/StreamVault) -
 
 *   [coodesker/coodesker-desktop](https://github.com/coodesker/coodesker-desktop) - Desktop orgainze tool
 
@@ -587,42 +642,6 @@
 
 *   [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
-## C\#
-
-*   [mxyhi/ok-skills](https://github.com/mxyhi/ok-skills) - Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-compatible tools.
-
-*   [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
-
-*   [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) - ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
-
-*   [944095635/WallpaperMaker](https://github.com/944095635/WallpaperMaker) - Windows 桌面动态壁纸 视频壁纸
-
-*   [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 现代化 Android & OpenHarmony 工具箱 | A Modern Toolbox for Android & OpenHarmony Devices
-
-*   [Ponderfly/GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 扫描国内可用的谷歌翻译IP
-
-*   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
-
-## Rust
-
-*   [jimuzhe/tiez-clipboard](https://github.com/jimuzhe/tiez-clipboard) - TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows.
-
-*   [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款剪贴板增强工具， 让你的复制与粘贴更加智能、高效与愉悦
-
-*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-*   [NiREvil/vless](https://github.com/NiREvil/vless) - v2ray subscription links
-
-*   [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
-
-*   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
-
 ## Markdown
 
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -634,24 +653,6 @@
 ## Astro
 
 *   [evepupil/notion-fuwari](https://github.com/evepupil/notion-fuwari) - 魔改版Fuwari，Notion作为CMS的自用博客
-
-## C++
-
-*   [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
-
-*   [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
-
-*   [CodePanda66/CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408) - 💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源
-
-*   [Didnelpsun/CS408](https://github.com/Didnelpsun/CS408) - 考研计算机科学408笔记整理
-
-*   [sukhoeing/aoapc-bac2nd-keys](https://github.com/sukhoeing/aoapc-bac2nd-keys) - 算法竞赛入门经典第2版-习题选解
-
-*   [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
-
-*   [callmePicacho/Data-Structres](https://github.com/callmePicacho/Data-Structres) - 浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解
-
-*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 
 ## Visual Basic .NET
 
@@ -696,7 +697,3 @@
 ## Smali
 
 *   [langgithub/RXjadx](https://github.com/langgithub/RXjadx) - Fart脱壳后指令抽取修复 jadx对抗 对抗jadx Fart脱壳 Android脱壳 dexDump dex主动抽取
-
-## Clojure
-
-*   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc\_ggEV
