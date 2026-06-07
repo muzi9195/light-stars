@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [PowerShell](#powershell)
 *   [Kotlin](#kotlin)
 *   [Vue](#vue)
@@ -21,7 +22,6 @@
 *   [Go](#go)
 *   [Dart](#dart)
 *   [Swift](#swift)
-*   [C#](#c)
 *   [Rust](#rust)
 *   [C++](#c-1)
 *   [HTML](#html)
@@ -41,13 +41,31 @@
 *   [Cuda](#cuda)
 *   [Smali](#smali)
 
+## C\#
+
+*   [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
+
+*   [luoluoluo22/yanzi](https://github.com/luoluoluo22/yanzi) - Yanzi launcher with cloud-synced JSON extensions and Cloudflare backend
+
+*   [phaselden/FlipIt](https://github.com/phaselden/FlipIt) - Flip Clock screensaver
+
+*   [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
+
+*   [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) - ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
+
+*   [944095635/WallpaperMaker](https://github.com/944095635/WallpaperMaker) - Windows 桌面动态壁纸 视频壁纸
+
+*   [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 现代化 Android & OpenHarmony 工具箱 | A Modern Toolbox for Android & OpenHarmony Devices
+
+*   [Ponderfly/GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 扫描国内可用的谷歌翻译IP
+
 ## PowerShell
 
 *   [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
 
 ## Kotlin
 
-*   [ximeiorg/Xime](https://github.com/ximeiorg/Xime) - 我的自用安卓五笔/拼音输入法，基于Rime 构建。相关 AI 模型基于 ONNXRuntime 实现
+*   [ximeiorg/Xime](https://github.com/ximeiorg/Xime) - 我的自用安卓输入法，基于Rime 构建，支持五笔/拼音/自定义方案。相关功能由本人设计的本地AI模型驱动
 
 *   [xororz/local-dream](https://github.com/xororz/local-dream) - Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.
 
@@ -65,7 +83,7 @@
 
 *   [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) - 使用 腾讯X5 WebView 开发的电视直播App
 
-*   [mulkymalikuldhrs/opencode-android](https://github.com/mulkymalikuldhrs/opencode-android) - 🤖 Native Android client for OpenCode AI coding agent — chat, terminal, file manager & code editor with Material Design 3
+*   [mulkymalikuldhrs/opencode-android](https://github.com/mulkymalikuldhrs/opencode-android) - OpenCode Android — Native Android client for OpenCode AI coding agent with chat, terminal, and code editor
 
 *   [xigua222/photoo](https://github.com/xigua222/photoo) - photoo 是一款 Android 原生的极简照片整理工具。滑动卡片就能快速整理相册——左滑删除，右滑收藏，上滑保留。还有一系列"该有的全都有"的功能：相册分析生成专属摄影画像、沉浸式回顾喜爱照片、智能识别相似照片和低质量图片、视频和图片压缩......  但 photoo 不只是一个"清理"软件，它更是"回忆"。
 
@@ -111,11 +129,9 @@
 
 *   [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
-*   [Ariestar/obsidian-dragger](https://github.com/Ariestar/obsidian-dragger) - An Obsidian plugin for dragging and rearranging any text block.
+*   [Ariestar/obsidian-dragger](https://github.com/Ariestar/obsidian-dragger) - An Obsidian plugin for dragging and rearranging any block.
 
 *   [cshuangyy/videdown](https://github.com/cshuangyy/videdown) - Videdown 是一款现代化的开源视频下载工具，让你可以从抖音 小红书 B站 YT Instagram等网站下载无水印高清视频
-
-*   [haierkeys/obsidian-fast-note-sync](https://github.com/haierkeys/obsidian-fast-note-sync) - Can be privately deployed, focusing on providing Obsidian users with a seamless, distraction-free note synchronization plugin with real-time sync across multiple platforms, supporting Mac, Windows, Android, iOS, and offering multilingual support.可私有化部署，专注为 Obsidian 用户提供无打扰、丝般顺滑、多端实时同步的多平台笔记同步插件。
 
 *   [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 
@@ -397,6 +413,8 @@
 
 *   [yyhhyyyyyy/selfproxy](https://github.com/yyhhyyyyyy/selfproxy) - 自用代理工具配置仓库，包含Mihomo(Clash)、Surge等工具的优化配置文件与使用指南。
 
+*   [haierkeys/obsidian-fast-note-sync](https://github.com/haierkeys/obsidian-fast-note-sync) - Can be privately deployed, focusing on providing Obsidian users with a seamless, distraction-free note synchronization plugin with real-time sync across multiple platforms, supporting Mac, Windows, Android, iOS, and offering multilingual support.可私有化部署，专注为 Obsidian 用户提供无打扰、丝般顺滑、多端实时同步的多平台笔记同步插件。
+
 *   [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 
 *   [codewizdevs/cloudflare-tunnel-manager](https://github.com/codewizdevs/cloudflare-tunnel-manager) - Professional web-based management system for Cloudflare Tunnels with health monitoring, auto-restart, environment tagging, and Discord notifications
@@ -442,8 +460,6 @@
 *   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 
 *   [yutian81/slink](https://github.com/yutian81/slink) - Slink 是一个轻量级、高性能的多功能文件管理服务，基于 Cloudflare Workers 的全球分布式网络和 KV 存储，具备免费且快速的短链、图床、记事本、剪贴板四个模块
-
-*   [eooce/nodejs-argo](https://github.com/eooce/nodejs-argo) - nodejs-argo是一个强大的Argo隧道部署工具，专为PaaS平台和游戏玩具平台设计。它支持多种代理协议（VLESS、VMess、Trojan等），并集成了哪吒探针功能，支持npm install nodejs-argo一键安装包
 
 *   [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器
 
@@ -531,24 +547,6 @@
 
 *   [VintLin/skill-flow](https://github.com/VintLin/skill-flow) - Install, manage, and share skills across every major coding agent — Claude Code, Cursor, Copilot, and more.
 
-## C\#
-
-*   [luoluoluo22/yanzi](https://github.com/luoluoluo22/yanzi) - Yanzi launcher with cloud-synced JSON extensions and Cloudflare backend
-
-*   [phaselden/FlipIt](https://github.com/phaselden/FlipIt) - Flip Clock screensaver
-
-*   [mxyhi/ok-skills](https://github.com/mxyhi/ok-skills) - Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-compatible tools.
-
-*   [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
-
-*   [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) - ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
-
-*   [944095635/WallpaperMaker](https://github.com/944095635/WallpaperMaker) - Windows 桌面动态壁纸 视频壁纸
-
-*   [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 现代化 Android & OpenHarmony 工具箱 | A Modern Toolbox for Android & OpenHarmony Devices
-
-*   [Ponderfly/GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 扫描国内可用的谷歌翻译IP
-
 ## Rust
 
 *   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -595,6 +593,8 @@
 
 *   [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) - HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
 
+*   [mxyhi/ok-skills](https://github.com/mxyhi/ok-skills) - Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-compatible tools.
+
 *   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 *   [wugeng20/openlist-glassmorphism-theme](https://github.com/wugeng20/openlist-glassmorphism-theme) - 为OpenLIst/AList设计的现代玻璃拟态UI主题，融合动态视频背景、响应式设计与现代 UI 效果，带来沉浸式视觉体验。
@@ -602,6 +602,8 @@
 *   [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
 
 *   [souvenp/memos-worker](https://github.com/souvenp/memos-worker) - Memos Worker: A Cloudflare-Powered Notes and Knowledge Base. 由 Cloudflare 驱动的笔记与知识库。Site: https://demo.memos-demo.workers.dev/ username: memos password: memos
+
+*   [eooce/nodejs-argo](https://github.com/eooce/nodejs-argo) - nodejs-argo是一个强大的Argo隧道部署工具，专为PaaS平台和游戏玩具平台设计。它支持多种代理协议（VLESS、VMess、Trojan等），并集成了哪吒探针功能
 
 *   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 
@@ -670,8 +672,6 @@
 ## C
 
 *   [RuriOSS/rurima](https://github.com/RuriOSS/rurima) - Run docker & LXC images without docker or LXC program, without kernel features support, even without root privileges!
-
-*   [TonyD0g/DataStruct](https://github.com/TonyD0g/DataStruct) - 此仓库是本人学习数据结构的过程中码出来的代码，现将代码分享出来给大家共同学习 因本人水平有限，程序代码部分地方可能理解的不是很透彻，如果你遇到问题欢迎提出，一起交流学习共同进步，谢谢！参考书籍：<大话数据结构>
 
 ## PHP
 
